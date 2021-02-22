@@ -1,5 +1,5 @@
 # Multiple Linear Regression Interaction
-
+# James Dickens
 library(tidyverse)
 
 tribble(~milestraveled,  ~numdeliveries,       ~gasprice,         ~traveltime,
